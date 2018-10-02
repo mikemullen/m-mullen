@@ -1,0 +1,41 @@
+
+body {
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+
+
+.logoblock {
+	margin: auto;
+	max-width: 120px;
+	color: red;
+	border: solid 1px black;
+	background-color: red;
+}
+
+.header {
+	width: 100%;
+	padding-top: 15px;
+	background-color: grey;
+	border-bottom: solid 1px black;
+}
+
+.header ul {
+
+}
+
+.header li {
+	display: inline;
+	color: white;
+}
+
+.header a {
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 0px 8px 0px; 
+}
+
+.navbar {
+	border: solid 1px black;
+}
