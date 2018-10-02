@@ -1,0 +1,5 @@
+# Ignore images
+/images
+
+# Ignore other unneeded files
+.DS_Store
