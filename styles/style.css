@@ -1,28 +1,25 @@
 
-body {
-	margin: 0px;
-	font-family: sans-serif;
+html {
+	font-size: 20px;
+	font-family: 'Muli', sans-serif;
+	text-align: center;
 }
 
-
+body {
+	margin: 0 auto;
+}
 
 .logoblock {
 	margin: auto;
 	max-width: 120px;
-	color: red;
-	border: solid 1px black;
-	background-color: red;
 }
 
 .header {
 	width: 100%;
-	padding-top: 15px;
-	background-color: grey;
-	border-bottom: solid 1px black;
-}
-
-.header ul {
-
+	padding-top: 25px;
+	background-color: silver;
+	border-bottom: solid 1px grey;
+	text-align: center;
 }
 
 .header li {
@@ -37,5 +34,20 @@ body {
 }
 
 .navbar {
-	border: solid 1px black;
+	/* may not need, if not delete from html code*/
+}
+
+p {
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 100;
+}
+
+section {
+	border-bottom: solid 1px grey;
+}
+
+.mainstage {
+	max-width: 800px;
+	margin: auto;
 }
