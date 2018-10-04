@@ -33,6 +33,18 @@ body {
 	padding: 0px 8px 0px; 
 }
 
+.header a:link {
+	color: white;
+}
+
+.header a:visited {
+	color: white;
+}
+
+.header a:hover {
+	color: black;
+}
+
 .navbar {
 	/* may not need, if not delete from html code*/
 }
